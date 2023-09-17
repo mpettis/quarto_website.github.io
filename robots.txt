@@ -1,1 +1,1 @@
-Sitemap: https://mpettis.github.io/quarto_website.github.io/sitemap.xml
+Sitemap: https://github.com/mpettis/quarto_website.github.io/sitemap.xml
